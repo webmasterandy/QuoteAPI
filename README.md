@@ -42,7 +42,6 @@ You can also use ready-made images with German quotes.
 <br>Pictures with English quotes will follow. 
 <br>Please note that the rights and licenses of the images in this API are held by <a href="https://prexels.com">Prexels</a>. So you are obligated to cite Prexels as source.
 <hr>
-<br>
 URL: `https://api.andyproject.de/quotes/img/dailywords4u`
 <br>
 Note: There are no parameters or options for this URL.
