@@ -2,7 +2,9 @@
 A collection of German and English quotes. Over 6000 quotes. Free and fast forever.
 
 # Documentation
-The API can be reached via `https://api.andyproject.de/quotes/`.
+The API can be reached via `https://api.andyproject.de/quotes/`.<br>
+Backup API: `http://data.andyproject.de/quotes/`. <br>
+Notice: The Backup API have no SSL certificat also not working vor Images.
 <br>This will output random quotes in any language. 
 <br>
 <br>
