@@ -42,7 +42,7 @@ else:
 You can also use ready-made images with German quotes. 
 <br>These are also uploaded on instagram at <a href="https://instagram.com/dailywords4u">@dailywords4u</a>.
 <br>Pictures with English quotes will follow. 
-<br>Please note that the rights and licenses of the images in this API are held by <a href="https://prexels.com">Prexels</a>. So you are obligated to cite Prexels as source.<br><br>
+<br>Please note that the rights and licenses of the images in this API are held by <a href="https://pexels.com">Pexels</a>. So you are obligated to cite Prexels as source.<br><br>
 URL: `https://api.andyproject.de/quotes/img/dailywords4u`
 <br>
 Note: There are no parameters or options for this URL.
